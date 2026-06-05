@@ -1,4 +1,4 @@
-# BookMyMovie using React.js, Typescript & Flutter
+# BookMyMovie using React.ts, Typescript & Flutter
 ### Backend: Typescript
 ### Web-Frontend: React.ts
 ### App-Frontend: Flutter
